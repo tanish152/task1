@@ -1,4 +1,4 @@
-📊 Hotel Bookings Exploratory Data Analysis (EDA)
+![image](https://github.com/user-attachments/assets/36145c9b-8568-48cb-9001-87968c776614)📊 Hotel Bookings Exploratory Data Analysis (EDA)
 📁 Project Overview
 This project performs Exploratory Data Analysis (EDA) on a hotel bookings dataset that includes information about bookings in two types of hotels — City Hotel and Resort Hotel. The goal is to uncover insights and general trends that influence hotel bookings and understand how different features interact.
 
@@ -122,4 +122,8 @@ Room type 'A' is most booked, but room type 'H' is the most expensive.
 Repeated guests make up a small but significant portion of total bookings.
 
 ADR varies greatly depending on hotel type, room type, and customer segment.
+
+
+![image](https://github.com/user-attachments/assets/4e2f39c3-5666-4676-86d6-a8bc2ba7aa4a)
+
 
