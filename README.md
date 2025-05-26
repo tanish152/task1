@@ -125,5 +125,13 @@ ADR varies greatly depending on hotel type, room type, and customer segment.
 
 
 ![image](https://github.com/user-attachments/assets/4e2f39c3-5666-4676-86d6-a8bc2ba7aa4a)
+![image](https://github.com/user-attachments/assets/04673b0d-40d4-4c80-9fbe-db2167d50631)
+
+![image](https://github.com/user-attachments/assets/a8b665de-e715-41da-b03b-a9186b8c6fd1)
+![image](https://github.com/user-attachments/assets/e22412bc-97c3-49cc-8b99-73bd4259f7fa)
+
+
+![image](https://github.com/user-attachments/assets/cc194b01-2708-4568-85aa-02a15aa447ee)
+![image](https://github.com/user-attachments/assets/a08e0807-b6fe-4d42-ad18-db7dc2d28521)
 
 
